@@ -21,7 +21,7 @@
 
 ### 📫 Reach Me
 - **Phone:** [+250 795 100 416](tel:+250795100416)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **Email:** [verygoodmuhirwa22@gmail.com](mailto:verygoodmuhirwa22@gmail.com)  
 
 ### ⚡ Fun Fact
 I can solve a Rubik’s cube in under 2 minutes!  
