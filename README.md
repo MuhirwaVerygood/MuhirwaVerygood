@@ -28,5 +28,7 @@ I can solve a Rubik’s cube in under 2 minutes!
 
 ---
 
+![Muhirwa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhirwaVerygood&theme=github)
+
 📌 **Pinned Repositories Below ↓**  
 *(Customize pins in your [profile settings](https://github.com/MuhirwaVerygood?tab=repositories))*
