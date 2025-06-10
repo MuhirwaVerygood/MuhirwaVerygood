@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhirwa 
+# 👋 Hi, I'm Verygood Muhirwa
 
 **Fullstack Developer | Embedded Systems Enthusiast**  
 📍 Rwanda Coding Academy  
@@ -21,14 +21,5 @@
 
 ### 📫 Reach Me
 - **Phone:** [+250 795 100 416](tel:+250795100416)  
-- **Email:** [verygoodmuhirwa22@gmail.com](mailto:verygoodmuhirwa22@gmail.com)  
-
-### ⚡ Fun Fact
-I can solve a Rubik’s cube in under 2 minutes!  
-
----
-
-![Muhirwa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhirwaVerygood&theme=github)
-
-📌 **Pinned Repositories Below ↓**  
-*(Customize pins in your [profile settings](https://github.com/MuhirwaVerygood?tab=repositories))*
+- **Email:** [verygoodmuhirwa22@gmail.com](mailto:verygoodmuhirwa22@gmail.com)
+  
