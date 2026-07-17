@@ -18,7 +18,7 @@ jobs:
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_TOKEN }}
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
