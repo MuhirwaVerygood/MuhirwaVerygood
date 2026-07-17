@@ -111,15 +111,6 @@ Building scalable software, cloud-native systems, and embedded solutions.
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MuhirwaVerygood&theme=github-dark-blue&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -133,19 +124,8 @@ Building scalable software, cloud-native systems, and embedded solutions.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhirwaVerygood&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
 # 📊 GitHub Metrics
 
-> Requires GitHub Metrics Action.
 
 <p align="center">
 
@@ -155,31 +135,6 @@ Building scalable software, cloud-native systems, and embedded solutions.
 
 ---
 
-# 📈 Contribution Summary
-
-<p align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/MuhirwaVerygood/MuhirwaVerygood/main/profile-summary-card-output/github_dark/profile-details.svg"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://raw.githubusercontent.com/MuhirwaVerygood/MuhirwaVerygood/main/profile-summary-card-output/github_dark/repos-per-language.svg"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/MuhirwaVerygood/MuhirwaVerygood/main/profile-summary-card-output/github_dark/most-commit-language.svg"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://raw.githubusercontent.com/MuhirwaVerygood/MuhirwaVerygood/main/profile-summary-card-output/github_dark/stats.svg"/>
-
-<img width="49%" src="https://raw.githubusercontent.com/MuhirwaVerygood/MuhirwaVerygood/main/profile-summary-card-output/github_dark/productive-time.svg"/>
-
-</p>
-
----
 
 # 🌱 Currently Working On
 
