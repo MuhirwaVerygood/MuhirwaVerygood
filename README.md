@@ -102,18 +102,6 @@ Building scalable software, cloud-native systems, and embedded solutions.
 ---
 
 
-# 📊 GitHub Metrics
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/MuhirwaVerygood/MuhirwaVerygood/main/github-metrics.svg"/>
-
-</p>
-
----
-
-
 # 🌱 Currently Working On
 
 - 🚀 Spring Boot Microservices
