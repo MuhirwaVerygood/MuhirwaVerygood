@@ -101,15 +101,6 @@ Building scalable software, cloud-native systems, and embedded solutions.
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhirwaVerygood&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 📊 GitHub Metrics
 
